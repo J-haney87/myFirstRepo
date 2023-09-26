@@ -19,3 +19,7 @@ lesson3 github
   We can do hard things
 }
 ```
+
+- [x] Study
+- [ ] Study
+- [ ] study
