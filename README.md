@@ -8,7 +8,9 @@ lesson3 github
 **you got this** 
  
 1: stay openminded
+
 2: stay focused
+
 3: we got this
 
 
