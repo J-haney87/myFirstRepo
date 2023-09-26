@@ -5,9 +5,8 @@ lesson3 github
 ##  H2   This is new for me 
 ###  H3   Put I will get through it 
 
-***bold text** 
-you got this
-
+**you got this*** 
+ 
 1: stay openminded
 2: stay focused
 3: we got this
